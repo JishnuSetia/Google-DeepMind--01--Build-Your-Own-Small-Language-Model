@@ -9,6 +9,6 @@ The project combines **theory, labs, experiments, and ethical reflection**, focu
 ---
 
 ## 📚 Course Reference
-Google DeepMind: 01 Build Your Own Small Language Model: ![https://www.skills.google/course_templates/1341](https://www.skills.google/course_templates/1341)
+Google DeepMind: 01 Build Your Own Small Language Model: [https://www.skills.google/course_templates/1341](https://www.skills.google/course_templates/1341)
 
 ---
