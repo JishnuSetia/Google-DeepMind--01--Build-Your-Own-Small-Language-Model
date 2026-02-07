@@ -25,6 +25,8 @@
 ### Climate modeling and weather prediction
 - Meteorological data is a sequence of temperature, pressure, and atmospheric conditions. While traditional models rely on physics-based simulations, deep learning models have been used to enhance short-term weather prediction and climate modeling
 
+---
+
 - Language models are enormously powerful and can bring immense value to society in solving the kinds of problems you have just considered. However, with that power comes the responsibility to ensure that they are aligned with the varying needs of our society.
 
 - Without addressing the real needs of real people, there is a potential risk that the benefits of language models might be unequally distributed.
